@@ -15,3 +15,5 @@ If using this code, please cite the corresponding MDPI paper.
 
 ## Contact
 For implementation details, contact Hamidreza Abshenasan.
+
+- `npv_comparison_table4.ipynb`: Generates Table 4 comparing NPV across single-regime and multi-regime models with and without spillovers.
