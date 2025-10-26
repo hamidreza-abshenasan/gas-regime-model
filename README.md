@@ -1,6 +1,6 @@
 # Gas Regime Model
 
-This repository contains the Jupyter Notebook used to generate Figures 1–3 in the MDPI Feature Review.
+This repository contains the Jupyter Notebook used to generate Figures 1–3 in journal paper.
 
 ## Contents
 - `Figures_1_to_3.ipynb`: Synthetic data generation, regime classification using HMM, and optimal storage policy visualization.
