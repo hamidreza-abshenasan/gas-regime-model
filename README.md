@@ -11,7 +11,7 @@ This repository contains the Jupyter Notebook used to generate Figures 1–3 in 
 - **Figure 3**: Optimal storage policies by regime, showing injection/withdrawal decisions across price-inventory space.
 
 ## Citation
-If using this code, please cite the corresponding MDPI paper.
+If using this code, please cite the corresponding paper.
 
 ## Contact
 For implementation details, contact Hamidreza Abshenasan.
